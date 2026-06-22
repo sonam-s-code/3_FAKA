@@ -1,0 +1,10 @@
+library source (download them, or the program can't work):
+fuzzy extractor:https://pypi.org/project/fuzzy-extractor/
+PUF simulation: https://pypi.org/project/pypuf/
+mpmath: https://pypi.org/project/mpmath/
+pyserial: https://pypi.org/project/pyserial/
+numpy: version 1.26.4
+fastapi>=0.103
+uvicorn[standard]>=0.23
+pycryptodome>=3.18
+
